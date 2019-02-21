@@ -1,2 +1,3 @@
 # hello-world
 hello world project
+This is the first project on GitHub. I'm not sure what this website actually is, I'm just following instructions...
